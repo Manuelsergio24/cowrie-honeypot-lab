@@ -1,0 +1,16 @@
+2025-07-11T16:27:51.604437Z - cowrie.session.connect -   
+2025-07-11T16:27:51.605032Z - cowrie.client.version -   
+2025-07-11T16:27:51.605828Z - cowrie.client.kex -   
+2025-07-11T16:29:42.225065Z - cowrie.login.success - root toor1234 
+2025-07-11T16:29:42.247460Z - cowrie.client.size -   
+2025-07-11T16:29:42.247812Z - cowrie.client.var -   
+2025-07-11T16:29:42.248629Z - cowrie.session.params -   
+2025-07-11T16:31:29.374530Z - cowrie.command.input -   hgj
+2025-07-11T16:31:29.376086Z - cowrie.command.failed -   hgj
+2025-07-11T16:31:44.416575Z - cowrie.command.input -   sudo update
+2025-07-11T16:31:53.847687Z - cowrie.command.input -   crower
+2025-07-11T16:31:53.849561Z - cowrie.command.failed -   crower
+2025-07-11T16:32:34.692304Z - cowrie.command.input -   lets get this job done
+2025-07-11T16:32:34.694176Z - cowrie.command.failed -   lets get this job done
+2025-07-11T16:34:42.339505Z - cowrie.log.closed -   
+2025-07-11T16:34:42.340934Z - cowrie.session.closed -   
